@@ -1,0 +1,15 @@
+{
+  "name": "aksudark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "once upon a time in the dark...",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/aksudigitalarts/aksudark.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
